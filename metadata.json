@@ -1,0 +1,6 @@
+{
+  "name": "All-Inclusive Web Presence",
+  "description": "A premium, subscription-based online presence service for local UK businesses, including custom websites, fast hosting, professional email, ongoing SEO, and unlimited updates with no upfront costs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
